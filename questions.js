@@ -38,7 +38,7 @@ const examData = {
     "Q30": "",
     "Q31": "",
     "Q32": "",
-    "Q33": "https://ibb.co/spFxQCr8",
+    "Q33": "https://i.ibb.co/Q76SnkGy/c33.png",
     "Q34": "",
     "Q35": "",
     "Q36": "",
